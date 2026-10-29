@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="624" height="362" viewBox="0 0 624 362" role="img" aria-labelledby="title desc">
+<title id="title">Monthly post activity</title>
+<desc id="desc">99 unique posts, grouped by publication month. Darker cells contain more posts.</desc>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Segoe UI,Arial,sans-serif;fill:#202124}.title{font-size:18px;font-weight:600}.axis{font-size:12px;fill:#5f6368}.count{font-size:13px;font-weight:600}</style>
+<text x="24" y="30" class="title">Posts by publication month</text>
+<text x="24" y="48" class="axis">99 unique articles; versions excluded</text>
+<text x="113" y="68" class="axis" text-anchor="middle">Jan</text>
+<text x="155" y="68" class="axis" text-anchor="middle">Feb</text>
+<text x="197" y="68" class="axis" text-anchor="middle">Mar</text>
+<text x="239" y="68" class="axis" text-anchor="middle">Apr</text>
+<text x="281" y="68" class="axis" text-anchor="middle">May</text>
+<text x="323" y="68" class="axis" text-anchor="middle">Jun</text>
+<text x="365" y="68" class="axis" text-anchor="middle">Jul</text>
+<text x="407" y="68" class="axis" text-anchor="middle">Aug</text>
+<text x="449" y="68" class="axis" text-anchor="middle">Sep</text>
+<text x="491" y="68" class="axis" text-anchor="middle">Oct</text>
+<text x="533" y="68" class="axis" text-anchor="middle">Nov</text>
+<text x="575" y="68" class="axis" text-anchor="middle">Dec</text>
+<text x="80" y="108" class="axis" text-anchor="end">2015</text>
+<rect x="92" y="82" width="34" height="34" rx="3" fill="#edf0f2"><title>2015-01: 0 posts</title></rect>
+<rect x="134" y="82" width="34" height="34" rx="3" fill="#edf0f2"><title>2015-02: 0 posts</title></rect>
+<rect x="176" y="82" width="34" height="34" rx="3" fill="#edf0f2"><title>2015-03: 0 posts</title></rect>
+<rect x="218" y="82" width="34" height="34" rx="3" fill="#edf0f2"><title>2015-04: 0 posts</title></rect>
+<rect x="260" y="82" width="34" height="34" rx="3" fill="#edf0f2"><title>2015-05: 0 posts</title></rect>
+<rect x="302" y="82" width="34" height="34" rx="3" fill="#edf0f2"><title>2015-06: 0 posts</title></rect>
+<rect x="344" y="82" width="34" height="34" rx="3" fill="#edf0f2"><title>2015-07: 0 posts</title></rect>
+<rect x="386" y="82" width="34" height="34" rx="3" fill="#edf0f2"><title>2015-08: 0 posts</title></rect>
+<rect x="428" y="82" width="34" height="34" rx="3" fill="#edf0f2"><title>2015-09: 0 posts</title></rect>
+<rect x="470" y="82" width="34" height="34" rx="3" fill="#82c9aa"><title>2015-10: 2 posts</title></rect>
+<text x="487" y="104" class="count" fill="#202124" text-anchor="middle">2</text>
+<rect x="512" y="82" width="34" height="34" rx="3" fill="#14654c"><title>2015-11: 7 posts</title></rect>
+<text x="529" y="104" class="count" fill="#ffffff" text-anchor="middle">7</text>
+<rect x="554" y="82" width="34" height="34" rx="3" fill="#3b9674"><title>2015-12: 4 posts</title></rect>
+<text x="571" y="104" class="count" fill="#ffffff" text-anchor="middle">4</text>
+<text x="80" y="150" class="axis" text-anchor="end">2016</text>
+<rect x="92" y="124" width="34" height="34" rx="3" fill="#c6e8da"><title>2016-01: 1 posts</title></rect>
+<text x="109" y="146" class="count" fill="#202124" text-anchor="middle">1</text>
+<rect x="134" y="124" width="34" height="34" rx="3" fill="#edf0f2"><title>2016-02: 0 posts</title></rect>
+<rect x="176" y="124" width="34" height="34" rx="3" fill="#c6e8da"><title>2016-03: 1 posts</title></rect>
+<text x="193" y="146" class="count" fill="#202124" text-anchor="middle">1</text>
+<rect x="218" y="124" width="34" height="34" rx="3" fill="#3b9674"><title>2016-04: 5 posts</title></rect>
+<text x="235" y="146" class="count" fill="#ffffff" text-anchor="middle">5</text>
+<rect x="260" y="124" width="34" height="34" rx="3" fill="#3b9674"><title>2016-05: 5 posts</title></rect>
+<text x="277" y="146" class="count" fill="#ffffff" text-anchor="middle">5</text>
+<rect x="302" y="124" width="34" height="34" rx="3" fill="#82c9aa"><title>2016-06: 3 posts</title></rect>
+<text x="319" y="146" class="count" fill="#202124" text-anchor="middle">3</text>
+<rect x="344" y="124" width="34" height="34" rx="3" fill="#82c9aa"><title>2016-07: 2 posts</title></rect>
+<text x="361" y="146" class="count" fill="#202124" text-anchor="middle">2</text>
+<rect x="386" y="124" width="34" height="34" rx="3" fill="#3b9674"><title>2016-08: 4 posts</title></rect>
+<text x="403" y="146" class="count" fill="#ffffff" text-anchor="middle">4</text>
+<rect x="428" y="124" width="34" height="34" rx="3" fill="#3b9674"><title>2016-09: 5 posts</title></rect>
+<text x="445" y="146" class="count" fill="#ffffff" text-anchor="middle">5</text>
+<rect x="470" y="124" width="34" height="34" rx="3" fill="#3b9674"><title>2016-10: 5 posts</title></rect>
+<text x="487" y="146" class="count" fill="#ffffff" text-anchor="middle">5</text>
+<rect x="512" y="124" width="34" height="34" rx="3" fill="#c6e8da"><title>2016-11: 1 posts</title></rect>
+<text x="529" y="146" class="count" fill="#202124" text-anchor="middle">1</text>
+<rect x="554" y="124" width="34" height="34" rx="3" fill="#82c9aa"><title>2016-12: 3 posts</title></rect>
+<text x="571" y="146" class="count" fill="#202124" text-anchor="middle">3</text>
+<text x="80" y="192" class="axis" text-anchor="end">2017</text>
+<rect x="92" y="166" width="34" height="34" rx="3" fill="#14654c"><title>2017-01: 6 posts</title></rect>
+<text x="109" y="188" class="count" fill="#ffffff" text-anchor="middle">6</text>
+<rect x="134" y="166" width="34" height="34" rx="3" fill="#82c9aa"><title>2017-02: 3 posts</title></rect>
+<text x="151" y="188" class="count" fill="#202124" text-anchor="middle">3</text>
+<rect x="176" y="166" width="34" height="34" rx="3" fill="#82c9aa"><title>2017-03: 3 posts</title></rect>
+<text x="193" y="188" class="count" fill="#202124" text-anchor="middle">3</text>
+<rect x="218" y="166" width="34" height="34" rx="3" fill="#14654c"><title>2017-04: 6 posts</title></rect>
+<text x="235" y="188" class="count" fill="#ffffff" text-anchor="middle">6</text>
+<rect x="260" y="166" width="34" height="34" rx="3" fill="#3b9674"><title>2017-05: 5 posts</title></rect>
+<text x="277" y="188" class="count" fill="#ffffff" text-anchor="middle">5</text>
+<rect x="302" y="166" width="34" height="34" rx="3" fill="#c6e8da"><title>2017-06: 1 posts</title></rect>
+<text x="319" y="188" class="count" fill="#202124" text-anchor="middle">1</text>
+<rect x="344" y="166" width="34" height="34" rx="3" fill="#82c9aa"><title>2017-07: 2 posts</title></rect>
+<text x="361" y="188" class="count" fill="#202124" text-anchor="middle">2</text>
+<rect x="386" y="166" width="34" height="34" rx="3" fill="#edf0f2"><title>2017-08: 0 posts</title></rect>
+<rect x="428" y="166" width="34" height="34" rx="3" fill="#3b9674"><title>2017-09: 4 posts</title></rect>
+<text x="445" y="188" class="count" fill="#ffffff" text-anchor="middle">4</text>
+<rect x="470" y="166" width="34" height="34" rx="3" fill="#edf0f2"><title>2017-10: 0 posts</title></rect>
+<rect x="512" y="166" width="34" height="34" rx="3" fill="#3b9674"><title>2017-11: 4 posts</title></rect>
+<text x="529" y="188" class="count" fill="#ffffff" text-anchor="middle">4</text>
+<rect x="554" y="166" width="34" height="34" rx="3" fill="#edf0f2"><title>2017-12: 0 posts</title></rect>
+<text x="80" y="234" class="axis" text-anchor="end">2018</text>
+<rect x="92" y="208" width="34" height="34" rx="3" fill="#c6e8da"><title>2018-01: 1 posts</title></rect>
+<text x="109" y="230" class="count" fill="#202124" text-anchor="middle">1</text>
+<rect x="134" y="208" width="34" height="34" rx="3" fill="#edf0f2"><title>2018-02: 0 posts</title></rect>
+<rect x="176" y="208" width="34" height="34" rx="3" fill="#edf0f2"><title>2018-03: 0 posts</title></rect>
+<rect x="218" y="208" width="34" height="34" rx="3" fill="#edf0f2"><title>2018-04: 0 posts</title></rect>
+<rect x="260" y="208" width="34" height="34" rx="3" fill="#3b9674"><title>2018-05: 4 posts</title></rect>
+<text x="277" y="230" class="count" fill="#ffffff" text-anchor="middle">4</text>
+<rect x="302" y="208" width="34" height="34" rx="3" fill="#c6e8da"><title>2018-06: 1 posts</title></rect>
+<text x="319" y="230" class="count" fill="#202124" text-anchor="middle">1</text>
+<rect x="344" y="208" width="34" height="34" rx="3" fill="#edf0f2"><title>2018-07: 0 posts</title></rect>
+<rect x="386" y="208" width="34" height="34" rx="3" fill="#c6e8da"><title>2018-08: 1 posts</title></rect>
+<text x="403" y="230" class="count" fill="#202124" text-anchor="middle">1</text>
+<rect x="428" y="208" width="34" height="34" rx="3" fill="#edf0f2"><title>2018-09: 0 posts</title></rect>
+<rect x="470" y="208" width="34" height="34" rx="3" fill="#edf0f2"><title>2018-10: 0 posts</title></rect>
+<rect x="512" y="208" width="34" height="34" rx="3" fill="#edf0f2"><title>2018-11: 0 posts</title></rect>
+<rect x="554" y="208" width="34" height="34" rx="3" fill="#3b9674"><title>2018-12: 4 posts</title></rect>
+<text x="571" y="230" class="count" fill="#ffffff" text-anchor="middle">4</text>
+<text x="80" y="276" class="axis" text-anchor="end">2019</text>
+<rect x="92" y="250" width="34" height="34" rx="3" fill="#c6e8da"><title>2019-01: 1 posts</title></rect>
+<text x="109" y="272" class="count" fill="#202124" text-anchor="middle">1</text>
+<rect x="134" y="250" width="34" height="34" rx="3" fill="#edf0f2"><title>2019-02: 0 posts</title></rect>
+<rect x="176" y="250" width="34" height="34" rx="3" fill="#3b9674"><title>2019-03: 5 posts</title></rect>
+<text x="193" y="272" class="count" fill="#ffffff" text-anchor="middle">5</text>
+<rect x="218" y="250" width="34" height="34" rx="3" fill="#edf0f2"><title>2019-04: 0 posts</title></rect>
+<rect x="260" y="250" width="34" height="34" rx="3" fill="#edf0f2"><title>2019-05: 0 posts</title></rect>
+<rect x="302" y="250" width="34" height="34" rx="3" fill="#edf0f2"><title>2019-06: 0 posts</title></rect>
+<rect x="344" y="250" width="34" height="34" rx="3" fill="#edf0f2"><title>2019-07: 0 posts</title></rect>
+<rect x="386" y="250" width="34" height="34" rx="3" fill="#edf0f2"><title>2019-08: 0 posts</title></rect>
+<rect x="428" y="250" width="34" height="34" rx="3" fill="#edf0f2"><title>2019-09: 0 posts</title></rect>
+<rect x="470" y="250" width="34" height="34" rx="3" fill="#edf0f2"><title>2019-10: 0 posts</title></rect>
+<rect x="512" y="250" width="34" height="34" rx="3" fill="#edf0f2"><title>2019-11: 0 posts</title></rect>
+<rect x="554" y="250" width="34" height="34" rx="3" fill="#edf0f2"><title>2019-12: 0 posts</title></rect>
+</svg>

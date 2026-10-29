@@ -1,0 +1,17 @@
+# Obsidian local workspace state
+**/.obsidian/workspace.json
+**/.obsidian/cache/
+
+# Large recovery archive
+*.zip
+/archive/
+
+# Large videos are reconstructed locally from media-parts/
+/media/5deac0f60979.mp4
+/media/ecc3e9bbd6b0.mp4
+/media-parts/*.tar.gz
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store

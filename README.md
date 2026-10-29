@@ -9,11 +9,6 @@
 - `BLOG/`：日文原文，100 篇按日期命名的文章。
 - `BLOG_zh-cn/`：简体中文版本，100 篇按日期命名的文章。
 - `media/`：两个版本共享的媒体目录，共 314 个文件（265 JPG、24 PNG、25 MP4）。
-- `archive/`：辅助元数据、恢复报告、统计文件和原始 ZIP 备份；该目录已加入 `.gitignore`，只保留本地归档。
-- `archive/article-id-map.json`：LINE Blog 文章 URL 与文章 ID 的映射。
-- `archive/media-name-map.json`：恢复前媒体名称与本地文件名的映射。
-- `archive/version-diff-report.md` / `archive/version-diff-report.json`：保留版本之间的差异报告。
-- `archive/posting-activity-by-month.csv` / `posting-activity-heatmap.svg`：发文活动统计。
 
 文章中的媒体链接统一使用 `../media/...`，因此两个博客目录都可以使用同一份媒体文件。
 

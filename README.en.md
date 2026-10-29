@@ -9,11 +9,6 @@ An offline recovery archive of Kano's LINE Blog, containing the original Japanes
 - `BLOG/`: Japanese originals, with 100 date-named posts.
 - `BLOG_zh-cn/`: Simplified Chinese versions, with 100 date-named posts.
 - `media/`: one shared media directory containing 314 files (265 JPG, 24 PNG, and 25 MP4 files).
-- `archive/`: auxiliary metadata, recovery reports, statistics, and the source ZIP backup. It is listed in `.gitignore` and kept as a local archive.
-- `archive/article-id-map.json`: mapping between LINE Blog article URLs and article IDs.
-- `archive/media-name-map.json`: mapping from recovered source media names to local filenames.
-- `archive/version-diff-report.md` / `archive/version-diff-report.json`: reports comparing retained article versions.
-- `archive/posting-activity-by-month.csv` / `posting-activity-heatmap.svg`: posting activity summaries.
 
 Media links in both blog directories use `../media/...`, so both versions resolve to the same shared files.
 

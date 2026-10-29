@@ -9,11 +9,6 @@
 - `BLOG/`：日本語の原文。日付付きの記事が 100 件あります。
 - `BLOG_zh-cn/`：簡体字中国語版。日付付きの記事が 100 件あります。
 - `media/`：両方のブログで共有するメディアフォルダー。314 ファイル（JPG 265、PNG 24、MP4 25）を収録しています。
-- `archive/`：補助メタデータ、復元レポート、統計ファイル、元の ZIP バックアップ。`.gitignore` に追加しており、ローカルのアーカイブとして保持します。
-- `archive/article-id-map.json`：LINE Blog の記事 URL と記事 ID の対応表。
-- `archive/media-name-map.json`：復元前のメディア名とローカルファイル名の対応表。
-- `archive/version-diff-report.md` / `archive/version-diff-report.json`：保存された記事バージョンの差分レポート。
-- `archive/posting-activity-by-month.csv` / `posting-activity-heatmap.svg`：投稿活動の集計データ。
 
 記事内のメディアリンクは `../media/...` に統一しています。そのため、2 つのブログディレクトリから同じメディアを参照できます。
 
